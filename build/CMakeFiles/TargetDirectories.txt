@@ -1,0 +1,3 @@
+/mnt/c/대학원/0. 개인/cmake_study/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/대학원/0. 개인/cmake_study/build/CMakeFiles/my_test.dir
+/mnt/c/대학원/0. 개인/cmake_study/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(cmake_study
+        LANGUAGES CXX)
+
+add_executable(my_test test.cpp)
